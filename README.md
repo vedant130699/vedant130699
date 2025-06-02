@@ -27,8 +27,8 @@ Welcome to my GitHub profile! I'm a passionate Java developer in the making, cur
 | Spring Boot              | Hibernate / JPA   | Maven             |
 | RESTful APIs             | SQL, PL/SQL       | Postman           |
 | Spring Data JPA          |                   | IntelliJ IDEA     |
-| ModelMapper / DTOs       |                   | Linux / Windows   |
-| JUnit, Mockito (testing) |                   |                   |
+|                          |                   | Linux / Windows   |
+|                          |                   |                   |
 
 ---
 
