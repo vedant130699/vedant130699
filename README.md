@@ -31,15 +31,23 @@ Welcome to my GitHub profile! I'm a passionate Java developer in the making, cur
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Project
 
-### Student Management System
+### Issue Tracker (Mini JIRA)
 
-🔗 [github.com/vedant130699/student-management-system](https://github.com/vedant130699/Student-management-system)
+Spring Boot backend application implementing REST APIs and layered architecture.
 
-A Spring Boot application demonstrating CRUD operations on student records using Hibernate/JPA and MySQL. Includes RESTful endpoints, basic validation, and global exception handling(Working on this).
+**Tech Stack**
+- Java
+- Spring Boot
+- REST APIs
+- SQL
 
+🔗 Repository  
+https://github.com/vedant130699/issue-tracker-mini-jira
 
+### API Demo
+<img width="1818" height="960" alt="image" src="https://github.com/user-attachments/assets/8d9af9fb-f8b7-44f1-bd7b-da145829bd16" />
 
 <!--
 Feel free to connect or drop me a message! I'm always open to collaborating on interesting projects.
