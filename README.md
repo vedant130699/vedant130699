@@ -21,6 +21,11 @@ Tech Stack:
 🔗 Repository  
 https://github.com/vedant130699/issue-tracker-mini-jira
 
+API Demo:
+
+<img width="1818" height="960" alt="image" src="https://github.com/user-attachments/assets/eb19c620-1f64-4410-9c46-b805ff5da161" />
+
+
 ---
 
 ## 🛠 Skills
