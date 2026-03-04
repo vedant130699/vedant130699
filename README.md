@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm a passionate Java developer in the making, cur
 * 🎓 B.E. in Information Technology
 * 💼 System Engineer at Tata Consultancy Services (TCS)
 * 🛠️ Tech enthusiast with a focus on Java, Spring Boot, Hibernate/JPA, SQL, and RESTful APIs
-* 📚 Currently learning: **Spring & Hibernate for Beginners (incl. Spring Boot)** course on Udemy
 * 🌱 Always exploring new frameworks, best practices, and design patterns
 
 ---
